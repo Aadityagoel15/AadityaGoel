@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aaditya Goel</h1>
 <h3 align="center">A passionate Data Scientist & AI/ML Enthusiast | Aspiring to build impactful intelligent systems</h3>
-<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/punitkmryh/punitkmryh/master/Developer.gif">
 
 <p align="left">
 
