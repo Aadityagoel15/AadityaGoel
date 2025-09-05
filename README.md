@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aaditya Goel</h1>
 <h3 align="center">A passionate Data Scientist & AI/ML Enthusiast | Aspiring to build impactful intelligent systems</h3>
 
-<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/punitkmryh/punitkmryh/master/Developer.gif">
-
-
-
 - 🔭 I’m currently working on **AI-driven applications (RAG, Computer Vision, LLM, Deep Learning)**  
 - 🌱 I’m currently learning **MLOps, AWS, Diving Deep into AI**  
 - 💬 Ask me about **RAG, LLM, Deep Learning, Machine Learning, Data Science, Python, and Full-Stack Development**  
