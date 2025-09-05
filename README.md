@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on AI-driven applications (RAG, Computer Vision, LLM, Deep Learning) 
 - 🌱 I’m currently learning MLOps, AWS, Diving Deep into AI 
 - 💬 Ask me about RAG, LLM, Deep Learning, Machine Learning, Data Science, Python, and Full-Stack Development
-- ⚡ Fun fact: I believe AI won’t replace humans, but humans with AI will replace those without it!
+- ⚡Fun fact: I believe AI won’t replace humans, but humans with AI will replace those without it!
 
 
 <h3 align="left">Connect with me:</h3>
