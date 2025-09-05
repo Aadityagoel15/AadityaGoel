@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Data Scientist & AI/ML Enthusiast | Aspiring to build impactful intelligent systems</h3>
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/punitkmryh/punitkmryh/master/Developer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Aadityagoel15&label=Profile%20views&color=0e75b6&style=flat" alt="Aadityagoel15" /> </p>
+<p align="left">
 
 - 🔭 I’m currently working on **AI-driven applications (RAG, Computer Vision, LLM, Deep Learning)**  
 - 🌱 I’m currently learning **MLOps, AWS, Diving Deep into AI**  
