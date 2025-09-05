@@ -3,7 +3,6 @@
 
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/punitkmryh/punitkmryh/master/Developer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Aadityagoel15&label=Profile%20views&color=0e75b6&style=flat" alt="Aadityagoel15" /> </p>
 
 
 - 🔭 I’m currently working on **AI-driven applications (RAG, Computer Vision, LLM, Deep Learning)**  
