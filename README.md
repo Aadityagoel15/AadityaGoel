@@ -40,7 +40,8 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aadityagoel15&show_icons=true&locale=en&layout=compact" alt="Aadityagoel15" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aadityagoel15&" alt="Aadityagoel15" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadityagoel15&layout=compact&theme=radical" alt="Top Langs" height="180px"/>
+  <img src="https://github-readme-streak-stats.demolab.com?user=aadityagoel15&theme=radical&hide_border=false" alt="GitHub Streak" height="180px"/>
 </div>
+
 
